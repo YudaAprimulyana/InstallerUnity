@@ -1,2 +1,5 @@
 # InstallerUnity
-Unity+AndroidStudio+JDK
+Terdiri dari:
+- Installer Unity
+- Installer Android Studio
+- JDK
